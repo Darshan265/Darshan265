@@ -1,5 +1,5 @@
 # DARSHAN KHARBIKAR — Embedded Systems Engineer
-Embedded systems |Kernel Development |Baremetal programming | RTOS 
+Embedded systems | Kernel Development | Baremetal programming | RTOS 
 | 5G gNB testing
 
 ## 👨‍💻 About Me
