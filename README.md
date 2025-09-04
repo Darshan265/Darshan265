@@ -23,6 +23,11 @@ Hi, I'm DARSHAN KHARBIKAR.
 |-------:|:-----:|
 | Lines of C/C++ written | 20K+ |
 | Embedded boards programmed | 4+ |
+|Lines of Bash Shell scripting|1k+|
+|Projects in Baremetal and Bootloader programming|--|
+|Projects in Kernel Development|--|
+|Projects in RTOS|--|
+|Projects in IoT and Embedded Security|--|
 | Years in embedded systems | 3+ |
 
 <!--
