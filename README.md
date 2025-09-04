@@ -2,15 +2,7 @@
 Embedded systems | RTOS | Kernel modules | 5G gNB testing
 
 ## 👨‍💻 About Me
-Hi, I'm DARSHAN KHARBIKAR. I work on STM32F411, ESP32 DevKit V1, and Raspberry Pi 4B building RTOS and embedded Linux systems. Focus: platform bring-up, baremetal programming, HAL, kernel modules, and secure firmware.
-  -Platform bring-up and configuration of Xilinx ZCU102 and Raspberry Pi.
-  -Development, integration, and testing of 5G gNB components (CN, CU/DU, RU – Benetel and VVDN).
-  -Kernel-level work: driver integration, module debugging, and real-time patching.
-  -Configuration and validation of UE (CPEs, IP cameras, mobile devices).
-  -Ensured gNB compliance with ITSAR security standards.
-  -Implemented secure log export (SSL/TCP) and configured Baseboard Management Controller(BMC) for remote monitoring.
-  -Tested and configured SMO for gNB telemetry and fault management.
-  -Authored detailed technical documentation across development and test phases.
+Hi, I'm DARSHAN KHARBIKAR. I work on STM32F411, ESP32 DevKit V1, and Raspberry Pi 4B building RTOS and embedded Linux systems. Focus: platform bring-up, baremetal programming, HAL, kernel modules, and secure firmware.Platform bring-up and configuration of Xilinx ZCU102 and Raspberry Pi. Development, integration, and testing of 5G gNB components (CN, CU/DU, RU – Benetel and VVDN). Kernel-level work: driver integration, module debugging, and real-time patching. Configuration and validation of UE (CPEs, IP cameras, mobile devices).Ensured gNB compliance with ITSAR security standards. Implemented secure log export (SSL/TCP) and configured Baseboard Management Controller(BMC) for remote monitoring. Tested and configured SMO for gNB telemetry and fault management. Authored detailed technical documentation across development and test phases.
 
 
 ## 🛠️ Tech Stack
