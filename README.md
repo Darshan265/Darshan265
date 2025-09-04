@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%"/>
-</p>
-
 # DARSHAN KHARBIKAR — Embedded Systems Engineer
 Embedded systems | RTOS | Kernel modules | 5G gNB testing
 
