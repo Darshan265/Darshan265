@@ -28,7 +28,7 @@ Hi, I'm DARSHAN KHARBIKAR.
 | Embedded Boards Programmed | 4+ |
 |Open Source Project Contributions|--|
 |Projects in Baremetal and Bootloader programming|--|
-|Projects in Kernel Development|--|
+|Projects in Kernel Development|5+|
 |Projects in RTOS|--|
 |Projects in IoT and Embedded Security|--|
 
