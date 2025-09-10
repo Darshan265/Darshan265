@@ -35,7 +35,7 @@ Hi, I'm DARSHAN KHARBIKAR.
 
 
 ## 🔭 Featured Projects
-- **Pi-NAS** — [RPi4 NAS with USB Storage, Samba for drag and drop, flask for web dashboard](https://github.com/Darshan265/MTech-Dissertation-RPI-NAS))  
+- **Pi-NAS** — [RPi4 NAS with USB Storage, Samba for drag and drop, flask for web dashboard](https://github.com/Darshan265/MTech-Dissertation-RPI-NAS)  
 <!--
 - **esp32-freertos** — FreeRTOS tasks, queues, MQTT demos — [repo](https://github.com/<your-username>/esp32-freertos)  
 - **stm32f411-bm** — Bare-metal drivers for UART/SPI/I2C — [repo](https://github.com/<your-username>/stm32f411-baremetal)
