@@ -33,9 +33,10 @@ Hi, I'm DARSHAN KHARBIKAR.
 |Projects in IoT and Embedded Security|--|
 
 
-<!--
+
 ## 🔭 Featured Projects
-- **Pi-NAS** — RPi4 NAS with RAID over USB, Grafana monitoring — [repo](https://github.com/<your-username>/pi-nas)  
+- **Pi-NAS** — RPi4 NAS with USB Storage, Samba for drag and drop, flask for web dashboard — [repo](https://github.com/<your-username>/pi-nas)  
+<!--
 - **esp32-freertos** — FreeRTOS tasks, queues, MQTT demos — [repo](https://github.com/<your-username>/esp32-freertos)  
 - **stm32f411-bm** — Bare-metal drivers for UART/SPI/I2C — [repo](https://github.com/<your-username>/stm32f411-baremetal)
 
